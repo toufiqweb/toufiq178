@@ -1,3 +1,6 @@
+
+![Banner](cover.png)
+
 👋 Toufiq Alahe
 
 Web Developer
