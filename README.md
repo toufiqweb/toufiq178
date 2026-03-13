@@ -1,14 +1,16 @@
 
 ![Banner](cover.png)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&width=600&lines=Hi+👋,+I'm+Toufiq+Alahe;Frontend+Web+Developer;React+Enthusiast" alt="Typing Animation"/>
-</h1>
+<h1 align="center">Hi 👋, I'm Toufiq Alahe  </h1>
+
 <h3 align="center"> Web Developer | React Enthusiast | Passionate About Modern Web Applications</h3>
 
 <p align="center">
 Building clean, responsive, and user-focused web experiences.
 </p>
+<small align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&width=600&lines=Hi+👋,+I'm+Toufiq+Alahe;Web+Developer;React+Enthusiast;Passionate+About+Modern+Web+Applications" alt="Typing Animation"/>
+</small>
 
 ## 🚀 About Me
 
