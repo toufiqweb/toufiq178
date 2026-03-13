@@ -5,49 +5,17 @@
 
 
 
-💻 Web Developer  
-Passionate about building modern, responsive, and user-focused web experiences.
+#  About Me:
+I am currently learning and growing as a web developer, and I am eager to collaborate on projects and gain more experience. I’m always open to new opportunities, and I enjoy sharing fun facts—so feel free to ask me about anything you’re curious about!
 
 
+##  Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/toufiq17878) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toufiq17878) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/toufiq-alahe-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toufiqalahe.dev@gmail.com) 
 
-
-##🚀 About Me
-
-💻 I am a passionate Web Developer
-
-🎨 I enjoy building responsive UI and modern layouts
-
-📚 Currently learning JavaScript (ES6+)
-
-🎯 My goal is to become a Full Stack Developer
-
-
-
-
-⚡ I enjoy learning new technologies and improving my development skills every day.
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/touhttps://www.buymeacoffee.com/VishwaGauravInfiq17878)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toufiqalahe.dev@gmail.com) 
-
-
-
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=toufiq178&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=toufiq178&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq178&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=toufiq178&icon=0&color=0)](https://visitcount.itsvg.in)
+#  Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+#  GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=toufiq178&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq178&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
