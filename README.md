@@ -80,7 +80,4 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 
 
 </p>
-<p align="center">
-  <p align="center">Built with passion by a Web Developer</p>
 
-</p>
