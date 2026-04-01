@@ -51,10 +51,7 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqweb&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-  />
+ 
 </p>
 
 <p align="center">
